@@ -2,6 +2,7 @@
 MyAnimeList Project using the JikanPy module/API
 
 This project was started on : July 31 2022
+
 This project was finished on: Still Ongoing
 
 What is the project about:
