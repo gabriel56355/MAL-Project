@@ -1,5 +1,5 @@
-# MAL-Project
-MyAnimeList Project using the JikanPy module/API
+# Anime/Manga Generator
+Anime/Manga Generator is using the JikanPy module/API to get its info
 
 *This project was started on* : July 31 2022
 
