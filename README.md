@@ -3,7 +3,7 @@ Anime/Manga Generator is using the JikanPy module/API to get its info
 
 *This project was started on* : July 31 2022
 
-*This project was finished on*: Still Ongoing
+*This project was finished on*: Dropped
 
 *What is the project about*:
 So, I wanted a programm that could recommend me animes/mangas so, I decided to code one.
